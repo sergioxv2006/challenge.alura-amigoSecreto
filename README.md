@@ -9,3 +9,8 @@
 - **Estruturação de código** = Aprendi como estruturar uma boa página web com elementos básicos de DOM e Programação Orientada ao Objeto através do javascript.
 - **Responsividade** = O código foi detalhadamente pensado em como o usuário pode usar o site para sorteios de prêmios, com cada linha de código pensando em como funcionaria cada botão do site e do layout para o conforto visual do usuário.
 - **Linguagens de Programação** = Adquirir certo conhecimento na funcionalidade do javascript, de como implementá-lo em uma página web com HTML5 e CSS.
+
+## Adições Principais ##
+- **Função amigosRestantes** = A função amigosRestantes em javascript controla que nome ainda pode ser sorteado.
+- **Botão "X"** = O botão ❌ remove o nome da lista e também dos possíveis sorteios.
+- **Sorteio sem repetição** = Quando todos forem sorteados, ele reinicia automaticamente.
